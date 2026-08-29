@@ -1,0 +1,8 @@
+{
+  "name": "Weekday Assign",
+  "description": "Zomato-grade interview scheduling workflow, intern ToDo execution engine, and automation documentation for Weekday.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
