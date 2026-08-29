@@ -4,6 +4,8 @@ A **Zomato-grade interview scheduling execution engine, automation system, and i
 
 This platform provides the end-to-end framework, interactive intern cockpit, automated 24-hour cadence, edge-case resolution SOPs, and system proposal to schedule **500+ daily candidate interviews** across 100+ high-growth partner companies with a strict **≥80% 24-hour SLA** using **2 college interns (Ram & Shyam)**.
 
+> 📘 **Detailed Assumptions & Thought Process:** See [`ASSUMPTIONS_AND_THOUGHT_PROCESS.md`](./ASSUMPTIONS_AND_THOUGHT_PROCESS.md) for full mathematical breakdowns, time budgets, behavioral hypotheses, and operational tradeoffs.
+
 ---
 
 ## 📌 Problem Statement & Core Operational Math
